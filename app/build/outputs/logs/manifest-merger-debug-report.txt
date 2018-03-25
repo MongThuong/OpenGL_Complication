@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+MERGED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/73a755393100ebc5bb0a9772a750391e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/b4ff13cab76559ba0fe7d7e3cd8a6265/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/100613943eb18a8c4e5ac08d539014b4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/29aad220ed0be2f19523f33fd4ad0b52/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/ed18bf75d6d44fef067e84f79d9b95dd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c3915831dd8a9674231ce4c5c017b00f/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:1-87:12
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.type.watch
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:9:5-104
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:9:22-101
+application
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:11:5-85:19
+MERGED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/73a755393100ebc5bb0a9772a750391e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/73a755393100ebc5bb0a9772a750391e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/b4ff13cab76559ba0fe7d7e3cd8a6265/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/b4ff13cab76559ba0fe7d7e3cd8a6265/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/100613943eb18a8c4e5ac08d539014b4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/100613943eb18a8c4e5ac08d539014b4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/29aad220ed0be2f19523f33fd4ad0b52/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/29aad220ed0be2f19523f33fd4ad0b52/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/ed18bf75d6d44fef067e84f79d9b95dd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/ed18bf75d6d44fef067e84f79d9b95dd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c3915831dd8a9674231ce4c5c017b00f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c3915831dd8a9674231ce4c5c017b00f/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:16:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:17:9-19:36
+	android:value
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:19:13-33
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:18:13-66
+service#com.example.nmthuong.demoopenglwatchface.MainAnaLogWatchFace
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:21:9-41:19
+	android:label
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:23:13-41
+	android:permission
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:24:13-67
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:22:13-48
+meta-data#android.service.wallpaper
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:25:13-27:54
+	android:resource
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:27:17-51
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:26:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:28:13-30:63
+	android:resource
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:30:17-60
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:29:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:31:13-33:63
+	android:resource
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:32:17-86
+service#com.example.nmthuong.demoopenglwatchface.TestService
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:43:9-65:19
+	android:label
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:45:13-45
+	android:permission
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:44:13-40
+meta-data#com.google.android.wearable.watchface.wearableConfigurationAction
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:47:13-49:93
+	android:value
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:49:17-91
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:48:17-97
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:59:13-63:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:60:17-85
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:60:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:62:17-102
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:62:27-99
+meta-data#com.google.android.gms.version
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:67:9-69:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:69:13-66
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:68:13-58
+activity#android.support.wearable.complications.ComplicationHelperActivity
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:72:9-101
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:72:19-99
+activity#com.example.nmthuong.demoopenglwatchface.ComplicationConfigActivity
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:75:9-83:20
+	android:label
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:76:13-55
+intent-filter#android.intent.category.DEFAULT+com.example.android.wearable.watchface.CONFIG_COMPLICATION+com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:78:13-82:29
+action#com.example.android.wearable.watchface.CONFIG_COMPLICATION
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:79:17-100
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:79:25-98
+category#com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:80:17-113
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:80:27-111
+category#android.intent.category.DEFAULT
+ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:81:17-75
+	android:name
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml:81:27-73
+uses-sdk
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/73a755393100ebc5bb0a9772a750391e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/73a755393100ebc5bb0a9772a750391e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/b4ff13cab76559ba0fe7d7e3cd8a6265/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/b4ff13cab76559ba0fe7d7e3cd8a6265/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1b3fdc998797d6f75dbf3ccdc37b00ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/100613943eb18a8c4e5ac08d539014b4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/100613943eb18a8c4e5ac08d539014b4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/29aad220ed0be2f19523f33fd4ad0b52/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/29aad220ed0be2f19523f33fd4ad0b52/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/ed18bf75d6d44fef067e84f79d9b95dd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/ed18bf75d6d44fef067e84f79d9b95dd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c3915831dd8a9674231ce4c5c017b00f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c3915831dd8a9674231ce4c5c017b00f/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nmthuong/Documents/AndroidProj/DemoOpenGLWatchFace/app/src/main/AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.2.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/wearable-2.2.0.aar/9229ebb521b2a78daa647c63228f970a/AndroidManifest.xml:11:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/493ccd4e3e1af36e8af5553a68e4957f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0b48240b536fa09ee332ddf14ff8bd0d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/7a7588f56b31acf84995357a0b114450/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9980031e6a492521ac2f1f48bacdf114/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/757b916b8b4aef7c5d801e33dc6a3f4e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6fca10067fe41a58c07ce941391a700/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/91833e615152ef62cdb0bf3c4a692c6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5cd94679625d53e25a9e9c3065e9a800/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.1.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/percent-26.1.0.aar/3db5e704a8ae06da3562e65c88ec51f3/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c7caf3d9c44dc9c827fbc8a1d92dac8d/AndroidManifest.xml:24:13-79
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nmthuong/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cd4588bec64ee50091b83825d240f090/AndroidManifest.xml:26:13-58
